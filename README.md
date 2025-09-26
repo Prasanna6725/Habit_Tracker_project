@@ -8,7 +8,7 @@ Track your daily habits, mark them as completed, and stay consistent 🚀.
 👉 [View on GitHub Pages](https://Prasanna6725.github.io/Habit_Tracker_project/)
 
 
- 📸 Screenshot
+ 📸 Sample pic
 ![Habit Tracker Screenshot](screenshot.png)
 
 
